@@ -1,0 +1,12 @@
+a   b    c
+0   0    0  blue
+1   0    0  blue
+0   1    0  blue
+1   1    0  blue
+0   0    1  blue
+1   0    1  blue
+0   1    1  blue
+1   1    1  blue
+
+just blue will excuted .
+  

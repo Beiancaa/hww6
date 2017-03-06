@@ -1,0 +1,1 @@
+grep -n "" hw8.text | sort -r -n | gawk -F : "{ print $2 }"
